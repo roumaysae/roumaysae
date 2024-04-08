@@ -13,6 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 
+  # Github STATS :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roumaysae&show_icons=true&theme=radical)
+
 When I'm not coding, you can find me sharing insights about leadership and my experiences at AIESEC. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roumaysae-el-amrani-092793208/)!
 
 
