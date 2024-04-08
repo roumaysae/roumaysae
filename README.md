@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 
-When I'm not coding, you can find me sharing insights about leadership and my experiences at AIESEC. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/https:/in/roumaysae-el-amrani-092793208/)!
+When I'm not coding, you can find me sharing insights about leadership and my experiences at AIESEC. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roumaysae-el-amrani-092793208/)!
 
 
 Let's collaborate and create something amazing together!
