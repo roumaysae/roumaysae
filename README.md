@@ -1,5 +1,5 @@
 ### Hi there 👋 
- # I'm a Software engineering Student At ENSET MOHAMMEDIA 🔭✨
+ # I'm a Software engineering Student At ENSET MOHAMMEDIA 🔭
 
 - 😄 Passionate about crafting elegant solutions and remarkable user experiences. With skills in C, C++, Java, React.js, Node.js, ML and more I enjoy turning ideas into reality through clean and efficient code.
 - 🛠️ When I'm not coding, you can find me leading marketing efforts at AIESEC in Mohammedia, where I thrive on creative strategies and teamwork.
